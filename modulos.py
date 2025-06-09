@@ -212,4 +212,5 @@ def consultar_automatizaciones():
         for auto in automatizaciones_activas:
             print(f"- {auto}")
     print("=====================\n")
+    #prueba
 
